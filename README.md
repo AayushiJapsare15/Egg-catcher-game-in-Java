@@ -22,4 +22,4 @@ https://user-images.githubusercontent.com/98393445/151396385-0b834b65-64cb-48fd-
 
 
 ## Prerequisite 
--   To run **Egg Catcher Game** in you system you want to install [Java JDK ](https://www.oracle.com/in/java/technologies/javase-downloads.html).
+-   To run **Egg Catcher Game** in your system you want to install [Java JDK ](https://www.oracle.com/in/java/technologies/javase-downloads.html).
