@@ -4,18 +4,22 @@
 
 ## Table of contents
 * [Introduction](#introduction  "Goto Introduction")
-* [Screenshot](#screenshot)
-    1. Egg Catcher Game in java
+* [Screenshots](#screenshot)
 * [Prerequisite](#prerequisite)
 
 ## Introduction
--   Welcome to **Egg Catcher Game**. It is a small game made in java using swing package. This game is very simple and the first step for the java GUI game. This game is also a best example of Timer in java. In this game, the hen is moving in a iterating way on sepecified x-axis while eggs are randomly falling from the hen at the bottom, there's one basket to catch eggs. You have tens lives if life became zero then the game ends and scores are displayed on right of the frame. once the game ends you can restart it by pressing **Enter** key or can exit through **Escape** key. 
+Welcome to **Egg Catcher Game**. It is a small game made in java using swing package. This game is very simple and first step for the java GUI game. This game is also a best example of Timer in java. In this game, the hen is moving in a iterating way on sepecified x-axis while eggs are randomly falling from the hen at the bottom, there's one basket to catch eggs and scores are displayed on right of the frame while lives on the left. Two different sounds are produced when you catch and drop the egg. There are tens lives if life became zero then the game ends. once the game ends you can restart it by pressing **Enter** key or can exit using **Escape** key. 
 
 
 ## Screenshot
+-GamePlay (**unmute recommended**)
+
+https://user-images.githubusercontent.com/98393445/151396385-0b834b65-64cb-48fd-9d59-bb19d6c89dc1.mp4
+
+-End
+![End of Lives](https://user-images.githubusercontent.com/98393445/151397366-18da26fc-7a7d-41ab-bd8f-7e6c27c66bdf.png)
 
 
-[![Candy Rush Game](https://user-images.githubusercontent.com/55116730/96139230-43725780-0f1c-11eb-87f1-434a3bd432a9.gif "Candy Rush in java")](#screenshot)
 
 ## Prerequisite 
 -   To run **Egg Catcher Game** in you system you want to install [Java JDK ](https://www.oracle.com/in/java/technologies/javase-downloads.html).
